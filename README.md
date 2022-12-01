@@ -1,3 +1,12 @@
+It's a simple mobile application to track NFT points.
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
