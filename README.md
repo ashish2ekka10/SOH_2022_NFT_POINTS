@@ -1,4 +1,4 @@
-It's a simple mobile application to track NFT points.
+
 
 
 
